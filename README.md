@@ -8,9 +8,8 @@ You will need to download the nuget package `System.Data.SQLite`
 Then add the binary to dependencies
 
 <img src="https://i.ibb.co/hWYcvbs/asd.png"/>
-
-<div align = "left">
-  
+<h2>Code to make simple database</h2>
+<div align = "left"> 
 ```c#
 SqlDatabase database = new SqlDatabase("test2.db");
 List<string> colNames = new List<string>();
