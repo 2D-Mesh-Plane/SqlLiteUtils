@@ -10,6 +10,7 @@ Then add the binary to dependencies
 <img src="https://i.ibb.co/hWYcvbs/asd.png"/>
 <h2>Code to make simple database</h2>
 <div align = "left"> 
+    
 ```c#
 SqlDatabase database = new SqlDatabase("test2.db");
 List<string> colNames = new List<string>();
