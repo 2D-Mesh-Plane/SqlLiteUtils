@@ -42,11 +42,3 @@ foreach (var d in dataR)
     Console.WriteLine(d);
 }
 ```
-</div>
-  
-  <h2>How this works:</h2>
-  <p>
-    Uses multiple listes where the indexes correspond to the colls names or colls data types
-  <p/>
-
-</div>
