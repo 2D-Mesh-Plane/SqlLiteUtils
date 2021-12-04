@@ -42,3 +42,13 @@ foreach (var d in dataR)
     Console.WriteLine(d);
 }
 ```
+</br>
+</br>
+<h3 align="center">
+    Recommendation
+</h3>
+    <h4 align="center">
+    </br>
+    Use MySql. sqlite isnt the best database type!
+    </h4>
+
