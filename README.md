@@ -3,9 +3,9 @@
 
 </br>
 
-You will need to download the nuget package `System.Data.SQLite`
+You will need to download the nuget package `System.Data.SQLite` .
 
-Then add the binary to dependencies
+Then add the binary to dependencies.
 
 <img src="https://i.ibb.co/hWYcvbs/asd.png"/>
 <h2>Code to make simple database</h2>
@@ -49,6 +49,6 @@ foreach (var d in dataR)
 </h3>
     <h4 align="center">
     </br>
-    Use MySql. sqlite isnt the best database type!
+    Use MySql. SQLite isn't the best database type!
     </h4>
 
